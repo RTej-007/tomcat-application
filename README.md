@@ -9,3 +9,4 @@ If you have an existing Tomcat 9 application, you can use the [Tomcat Jakarta EE
 ToDo
 
 ## Trigger poll scm
+## pass the checks
